@@ -1,0 +1,11 @@
+# Ignore build artifacts
+*.o
+*.out
+leafs
+
+# Ignore temporary files
+*.swp
+*.log
+
+# Ignore common backup files
+*~
