@@ -1,4 +1,6 @@
-# MyTree
+# My Tree (Leafs)
+
+ ![leafs screenshot](src/leafs.png) 
 
 Leafs is a lightweight reimplementation of the classic `tree` command for Linux.  
 It recursively lists directory contents in a structured, tree-like format.
